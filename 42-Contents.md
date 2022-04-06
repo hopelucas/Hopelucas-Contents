@@ -1,3 +1,10 @@
 ![Hope Lucas(1)](https://user-images.githubusercontent.com/88760123/159395622-57e1bbf2-fab4-4421-a192-f8f99f59ee8f.png)
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `42 Projects`
+Below is an organised list of all of the 42 Projects I've completed, and all of the resources I'd recommend using for individuals to get the information they'll need. To be honest, I had so many repos, it was getting confusing to organise them all. Far easier for me to just...make a Markdown page to link you all to!
+
+### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Piscine`
+
+### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Ring 1`
+
+### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Ring 2`

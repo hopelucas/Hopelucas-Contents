@@ -19,3 +19,4 @@ Below is an organised list of all of the 42 Projects I've completed, and all of 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `42 Testers`
 Multi-project testers; useful. Download em, mash em, stick em in a stew.
 - [Francinette](https://github.com/hopelucas/francinette) (Libft, Printf, GNL, Minitalk, So_Long)
+- [42-Cursus-Tester](https://github.com/Abaker-Hype/42-Cursus-Tester)

@@ -4,7 +4,14 @@
 Below is an organised list of all of the 42 Projects I've completed, and all of the resources I'd recommend using for individuals to get the information they'll need. To be honest, I had so many repos, it was getting confusing to organise them all. Far easier for me to just...make a Markdown page to link you all to!
 
 ### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Piscine`
+- [Piscine Repository](https://github.com/hopelucas/42-Piscine)
 
 ### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Ring 1`
+- [Libft](https://github.com/hopelucas/42-Libft)
+- [Ft_Printf](https://github.com/hopelucas/42-Printf)
+- [Get_Next_Line](https://github.com/hopelucas/42-Get_Next_Line)
 
 ### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Ring 2`
+- [Minitalk](https://github.com/hopelucas/42-Minitalk)
+- [Push_Swap](https://github.com/hopelucas/42-Push-Swap)
+- [Fract-ol](https://github.com/hopelucas/42-Fract-ol)

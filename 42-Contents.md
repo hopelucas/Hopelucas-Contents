@@ -7,11 +7,11 @@ Below is an organised list of all of the 42 Projects I've completed, and all of 
 - [Piscine Repository](https://github.com/hopelucas/42-Piscine)
 
 ### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Ring 1`
-- [Libft](https://github.com/hopelucas/42-Libft)
-- [Ft_Printf](https://github.com/hopelucas/42-Printf)
-- [Get_Next_Line](https://github.com/hopelucas/42-Get_Next_Line)
+- [Libft](https://github.com/hopelucas/42-Libft) (125/100)
+- [Ft_Printf](https://github.com/hopelucas/42-Printf) (100/100)
+- [Get_Next_Line](https://github.com/hopelucas/42-Get_Next_Line) (100/100)
 
 ### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Ring 2`
-- [Minitalk](https://github.com/hopelucas/42-Minitalk)
-- [Push_Swap](https://github.com/hopelucas/42-Push-Swap)
-- [Fract-ol](https://github.com/hopelucas/42-Fract-ol)
+- [Minitalk](https://github.com/hopelucas/42-Minitalk) (125/100)
+- [Push_Swap](https://github.com/hopelucas/42-Push-Swap) (N/A)
+- [Fract-ol](https://github.com/hopelucas/42-Fract-ol) (N/A)

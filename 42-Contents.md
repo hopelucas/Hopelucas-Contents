@@ -7,7 +7,7 @@ Below is an organised list of all of the 42 Projects I've completed, and all of 
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Piscine Repository](https://github.com/hopelucas/42-Piscine)
 
 ### ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Ring 1`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Libft](https://github.com/hopelucas/42-Libft) (125/100)
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`[Libft]`(https://github.com/hopelucas/42-Libft) (125/100)
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Ft_Printf](https://github.com/hopelucas/42-Printf) (100/100)
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Get_Next_Line](https://github.com/hopelucas/42-Get_Next_Line) (100/100)
 
